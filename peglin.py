@@ -171,5 +171,6 @@ def clear_map():
 
 
 if __name__ == "__main__":
+    pass
     mc.connect("localhost", "test")
     generate_board(map=map_1, clear=True)
